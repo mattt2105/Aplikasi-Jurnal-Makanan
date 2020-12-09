@@ -1,1 +1,2 @@
-# Aplikasi-Jurnal-Makanan
+Username : arham
+Password : 123456
